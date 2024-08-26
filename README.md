@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirHossinBesharati&label=Profile%20views&color=0e75b6&style=flat" alt="AmirHossinBesharati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirHossinBesharati" alt="AmirHossinBesharati" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirHossinBesharati&theme=algolia" alt="AmirHossinBesharati" /></a> </p>
 
 - 💬 Ask me about **React js, Tailwind CSS, Next js, Express Js,Typescript, MUI, Vue Js, Python,Git**
 
