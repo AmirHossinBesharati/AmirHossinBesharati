@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍my works 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmirHossinBesharati/salesp07/AmirHossinBesharati/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
   
   <br/><br/><br/>
 </div>
