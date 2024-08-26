@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A+passionate+developer+from+Iran;A+passionate+developer+from+Iran;](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3698F7&background=E7FF7F00&center=true&width=437&lines=A+passionate+developer+from+Iran" />
   </a>
   <br/>
-  <a href="Amirhbrad84@GAmil.com">
+  <a href="mailto:zerohacking481@gmail.com">
     <img width=90 src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
