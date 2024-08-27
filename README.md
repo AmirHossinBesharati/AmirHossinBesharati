@@ -42,7 +42,7 @@
 
 <br/><br/>
 <div align="center">
-  <h2>🐍my works 🐍</h2>
+  <h2>⚡💻 my Animation 💻⚡</h2>
   <br>
   <img alt="snake eating my contributions" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
   
