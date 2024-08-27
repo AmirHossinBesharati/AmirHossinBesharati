@@ -28,6 +28,15 @@
 </div>
 
 <br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git," />
+  <br/>
+    <img src="https://skillicons.dev/icons?i=python,typescript,c,mysql" /><br>
+</div>
+
+<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
