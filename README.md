@@ -17,6 +17,12 @@
   <a>
     <img width=150 src="https://komarev.com/ghpvc/?username=AmirHossinBesharati&label=Profile%20views&color=0e75b6&style=flat" alt="AmirHossinBesharati" /> 
   </a>
+  <div align="center">
+  <br>
+   <img width=390 src="./contact me/telegram.png" alt="streak stats"/>
+  <img width=390 src="./contact me/cals.png" alt="readme stats" />
+  <br/><br/><br/>
+</div>
 </div>
 <br/>
 <div align="center">
@@ -50,11 +56,5 @@
 </div>
 
 <br/><br/>
-<div align="center">
-  <h2>📡contact me 📡</h2>
-  <br>
-   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AmirHossinBesharati&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AmirHossinBesharati&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/><br/>
-</div>
+
 
