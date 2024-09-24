@@ -51,10 +51,10 @@
 
 <br/><br/>
 <div align="center">
-  <h2>⚡💻 my Animation 💻⚡</h2>
+  <h2>📡contact me 📡</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
-  
+   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AmirHossinBesharati&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AmirHossinBesharati&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/><br/>
 </div>
 
