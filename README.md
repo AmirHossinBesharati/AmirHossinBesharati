@@ -19,9 +19,9 @@
   </a>
   <div align="center">
   <br>
-   <img width=390 src="./contact me/telegram.png" alt="streak stats"/>
-  <img width=390 src="./contact me/cals.png" alt="readme stats" />
-  <br/><br/><br/>
+   <img width=150 src="./contact me/telegram.png" alt="streak stats"/>
+  <img width=150 src="./contact me/cals.png" alt="readme stats" />
+  
 </div>
 </div>
 <br/>
