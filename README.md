@@ -57,5 +57,5 @@
 
 <br/><br/>
 <div align=center>
-![preview img](/coding.gif)
+   <img  src="./coding.gif">
 </div>
